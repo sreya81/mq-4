@@ -1,0 +1,10 @@
+@media screen and (width < 800px){
+    h2{
+       color:blue;
+    }
+}
+@media screen and (width > 800px){
+    h2{
+       color:green;
+    }
+}
